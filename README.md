@@ -11,6 +11,8 @@ It’ll give you a list of values stored in different registers after each 40 bi
 a = 10, b = 15;
 
 if(a >=b)
-  c = a-b;
+
++ c = a-b;
 else
-  c = b-a;
+
++  c = b-a;
