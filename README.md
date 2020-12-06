@@ -12,7 +12,9 @@ a = 10, b = 15;
 
 if(a >=b)
 
-+ c = a-b;
+ c = a-b;
+
+
 else
 
-+  c = b-a;
+  c = b-a;
